@@ -11,6 +11,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Logo Java" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" alt="Logo Kotlin" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Logo JavaScript" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="Logo HTML" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="Logo CSS" width="50" height="50" />
 </p>
 
 ##
