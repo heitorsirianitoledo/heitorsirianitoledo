@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou cursando faculdade de engenharia de software
 - ♨️ Estou estudando Java, JavaScript, HTML e CSS
-- 💻 Estou procurando uma vaga de estágio de desenvlovedor back-end ou front-end
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorsirianitoledo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorsirianitoledo&layout=compact&theme=dark)
